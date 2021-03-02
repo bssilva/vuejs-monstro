@@ -9,7 +9,7 @@
             :style="{width: valorJogador + '%'}"
             class="preenche-barra"
             :class="{ 'preenche-barra-low': valorJogador < 30 }"
-          ></div>
+          ></div> 
         </div>
         <h5>{{ valorJogador }} %</h5>
       </div>
