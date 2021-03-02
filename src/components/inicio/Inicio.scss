@@ -36,6 +36,15 @@
             }
         }
     }
+    .info-resultado{
+        text-align: center;
+        .ganhou{
+            color: green;
+        }
+        .perdeu{
+            color: red;
+        }
+    }
     .info-controles {
         height: 100px;
         margin-top: 30px;
